@@ -1,5 +1,5 @@
 <?php
-
+//Link to Database
 $servername = "localhost";
 $dBUsername = "root";
 $dBPassword = "";
